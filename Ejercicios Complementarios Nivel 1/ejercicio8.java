@@ -2,7 +2,8 @@ import java.util.Scanner;
 
 public class ejercicio8 {
     private static String bienvenida = "Bienvenido";
-    public static void main(String[] args){
+
+    public static void main(String[] args) {
         System.out.println(bienvenida);
         System.out.println("Por favor, a continuacion ingrese los datos requeridos.");
         System.out.println("Ingrese su nombre y apellido: ");
